@@ -1,0 +1,3 @@
+USA:wash
+Russia:Moscow
+UK:London
