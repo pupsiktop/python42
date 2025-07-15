@@ -1,0 +1,12 @@
+number have been added
+number have been added
+number have been added
+number have been added
+number have been added
+number have been added
+number have been added
+the search for the max and min. Max 654, Min 7
+massivs render[43, 56, 7, 654], max el 654 and min el 7
+number have been added
+the search for the max and min. Max 43, Min 43
+massivs render[43], max el 43 and min el 43

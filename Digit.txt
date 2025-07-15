@@ -1,0 +1,25 @@
+23
+65
+55
+7
+4
+23
+56
+3
+345
+76
+max el 76, min el 7687
+max el {maxx}, min el {minx}87
+8
+56
+678
+max el 678, min el 889
+8
+76
+789
+max el 789, min el 843
+56
+7
+654
+max el 654, min el 743
+max el 43, min el 43
